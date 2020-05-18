@@ -1,0 +1,17 @@
+{
+  "name": "newai12A",
+  "displayName": "newai12A",
+  "expo": {
+    "name": "newai12A",
+    "slug": "newai12A",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
